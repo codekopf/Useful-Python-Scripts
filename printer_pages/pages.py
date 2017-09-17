@@ -1,19 +1,5 @@
 import sys
 
-
-"""
-TODO:
-+ WRITE TESTS
-+ + Missing argument, 
-+ + Incorrect argument: negative arguments, one bigger than the other
-+ + Corner casses: min (1:1), max(1:10),-1-1, ...   
-+ CATCH ERRORS in better way: TypeError, ValueError, IndexError
-+ Solve last , 
-+ Other languages (slovak native)
-+ Check how to run script with arguments over PyCharm CE
-+ How to add it as alias into .bash_profile
-"""
-
 """
 This is a script for my printer to help me make double side printing. I am using printer capable to print only one-side.
 To create double side continues print (e.g. like a book) I need to print only certain pages (even or odd), than flip the
